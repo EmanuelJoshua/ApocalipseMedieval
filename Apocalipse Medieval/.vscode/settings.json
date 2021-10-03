@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "rotinas.h": "c",
+        "stdio.h": "c",
+        "funcoeseprocessos.h": "c",
+        "math.h": "c"
+    }
+}
